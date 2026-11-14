@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/26479412/README.md)
-LyriGO - Christian Songbook App (Serbia only *for now)
+Lyri - Christian Songbook App (Serbia only *for now)
 
-Dobrodošli u "LyriGO", uzbudljiv projekat razvoja savremene aplikacije za tekstove pesama. Naš cilj je da stvorimo besprekorno korisničko iskustvo kroz moderan dizajn i visoku funkcionalnost.
+Dobrodošli u "Lyri", uzbudljiv projekat razvoja savremene aplikacije za tekstove pesama. Naš cilj je da stvorimo besprekorno korisničko iskustvo kroz moderan dizajn i visoku funkcionalnost.
 
 ---
 
